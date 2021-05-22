@@ -5,6 +5,7 @@ soal 4B dapat di buka menggunakan XAMPP php 7.3 dan file database sudah disertak
 soal 4A dapat dilihat menggunakan text editor
 
 untuk soal 2 dan 3 masih belum maksimal
-untuk soal 1,4A,4B semoga diterima
+
+untuk soal 1,4A, dan 4B diselesaikan dengan baik semoga diterima
 
 terima kasih telah mengoreksi
